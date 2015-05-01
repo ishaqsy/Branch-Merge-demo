@@ -1,4 +1,4 @@
 # Branch-Merge-demo
 Demo of branching and merging
 
-Branch 3
+Branch 1Branch 3
